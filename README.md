@@ -39,12 +39,8 @@ This project is not an encyclopedia. It doesn't hope to store all of human knowl
   
   
 ### cs50 - Web Programming
-
-I am making this website to fulfill a final project requirement for the cs50 web programming course.
- Once I have a good working site to fulfill the requirements, I might consider continuing to expand the project with
-  external help. I believe I have fulfilled the complexity and _____ requirements because: 
-  - 
-  - 
+I am making this website to fulfill a final project requirement for the cs50 web programming course. Once I have a good working site to fulfill the requirements, I might consider continuing to expand the project with external help. I believe I have fulfilled the complexity and requirements because: 
+_______
   
 For a Youtube introduction, see: ________
 
